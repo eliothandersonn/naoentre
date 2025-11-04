@@ -1,8 +1,7 @@
-// Se seu bot usa alguma lib, importe aqui
+// Se você usa alguma biblioteca de bot, importe aqui
+// Exemplo para Telegram:
 // const { Telegraf } = require('telegraf');
 // const bot = new Telegraf(process.env.TOKEN);
-
-// Código do seu bot aqui
 // bot.start((ctx) => ctx.reply('Bot iniciado!'));
 // bot.launch();
 
