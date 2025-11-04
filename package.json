@@ -1,0 +1,14 @@
+{
+  "name": "bot-tiktok",
+  "version": "1.0.0",
+  "description": "Bot que curte lives do TikTok automaticamente",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.3.3",
+    "pg": "^8.16.3",
+    "puppeteer": "^21.11.0"
+  }
+}
